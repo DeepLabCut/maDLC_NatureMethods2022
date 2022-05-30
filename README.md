@@ -15,11 +15,13 @@ Jessy Lauer, Mu Zhou, Shaokai Ye, William Menegas, Steffen Schneider, Tanmay Nat
 
 - from the terminal launch `jupyter notebook` and select the Figure you wish to explore.
 
-Article is in press so in the meantime, check out:
+If you use code or ideas from this repo, we kindly as you cite:
 
-      @article{Lauer2021MultianimalPE,
-          title = {Multi-animal pose estimation and tracking with DeepLabCut},
-          author = {Jessy Lauer and Mu Zhou and Shaokai Ye and William Menegas and Tanmay Nath and Mohammed Mostafizur Rahman and Valentina Di Santo and Daniel Soberanes and Guoping Feng and Venkatesh N. Murthy and George Lauder and Catherine Dulac and Mackenzie W. Mathis and Alexander Mathis},
-          journal = {bioRxiv},
-          year = {2021}
-          url = {https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1}}
+      @article{Lauer2022MultianimalPE,
+      title={Multi-animal pose estimation, identification and tracking with DeepLabCut},
+      author={Jessy Lauer and Mu Zhou and Shaokai Ye and William Menegas and Steffen Schneider and Tanmay Nath and Mohammed Mostafizur Rahman and Valentina       Di Santo and Daniel Soberanes and Guoping Feng and Venkatesh N. Murthy and George Lauder and Catherine Dulac and M. Mathis and Alexander Mathis},
+      journal={Nature Methods},
+      year={2022},
+      volume={19},
+      pages={496 - 504}
+      }
