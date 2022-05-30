@@ -15,7 +15,7 @@ Jessy Lauer, Mu Zhou, Shaokai Ye, William Menegas, Steffen Schneider, Tanmay Nat
 
 - from the terminal launch `jupyter notebook` and select the Figure you wish to explore.
 
-If you use code or ideas from this repo, we kindly as you cite:
+If you use code from this repo we kindly ask that you cite:
 
       @article{Lauer2022MultianimalPE,
       title={Multi-animal pose estimation, identification and tracking with DeepLabCut},
