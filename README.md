@@ -13,7 +13,7 @@ Jessy Lauer, Mu Zhou, Shaokai Ye, William Menegas, Steffen Schneider, Tanmay Nat
 
 - we suggest using the [deeplabcut conda environment](https://deeplabcut.github.io/DeepLabCut/docs/installation.html#conda-the-installation-process-is-as-easy-as-this-figure), as then all (and more) dependencies are met. Thus, activate the environment and navigate into the cloned folder.
 
-- from the terminal launch `jupyter notebook` and select the Figure you wish to explore.
+- from the terminal launch `jupyter notebook` and select the Figure you wish to explore (each figure has one notebook in https://github.com/DeepLabCut/maDLC_NatureMethods2022/tree/main/notebooks)
 
 If you use code from this repo we kindly ask that you cite:
 
